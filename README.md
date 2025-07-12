@@ -1,2 +1,2 @@
 # triton-examples
-Amended examples for OpenAI Triton
+Amended examples to learn Triton
